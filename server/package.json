@@ -1,0 +1,13 @@
+{
+  "name": "ai-ppt-masterclass",
+  "version": "2.0.0",
+  "description": "AI PPT高效制作与修改 - 在线教学网站（多端同步版）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}
